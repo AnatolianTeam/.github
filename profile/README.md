@@ -1,1 +1,7 @@
 # Anatolian Team
+
+## Stake with us ❤️
+
+| <a href="https://restake.app/jackal/jklvaloper1qhm6hucmshaz6s3mdyl8jje9ryk7t5uxgxy6w8" target="_blank" rel="noreferrer noopener"><img src="https://user-images.githubusercontent.com/102043225/201808251-3ff3597b-6503-48a9-b525-c43f34ae1303.png" width="200" height="200"></a> | <a href="https://restake.app/rebus/rebusvaloper183hv37en2dayslgf03zfr57crtjrchuazwm9h9" target="_blank" rel="noreferrer noopener"><img src="https://user-images.githubusercontent.com/102043225/201808363-b13d8438-3bd6-43bc-aaf7-7e7bcbd95e47.png" width="200" height="200"></a> | <a href="https://restake.app/stride/stridevaloper1ehmnl9jdf2hnj78va888gtpz9e3d4g4ll3wthh" target="_blank" rel="noreferrer noopener"><img src="https://user-images.githubusercontent.com/102043225/201808384-a74a8244-a1dd-4293-a261-afa32906a6bb.png" width="200" height="200"></a> |
+| ------------ | ------------ | ------------ |
+| <a href="https://restake.app/jackal/jklvaloper1qhm6hucmshaz6s3mdyl8jje9ryk7t5uxgxy6w8" target="_blank" rel="noreferrer noopener">Stake Jackal with ReStake</a> | <a href="https://restake.app/rebus/rebusvaloper183hv37en2dayslgf03zfr57crtjrchuazwm9h9" target="_blank" rel="noreferrer noopener">Stake Rebus with ReStake</a> | <a href="https://restake.app/stride/stridevaloper1ehmnl9jdf2hnj78va888gtpz9e3d4g4ll3wthh" target="_blank" rel="noreferrer noopener">Stake Stride with ReStake</a> |
