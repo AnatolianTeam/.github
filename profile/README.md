@@ -11,4 +11,20 @@ Always forward with the Anatolian Team 🚀
 
 ## 🙋 Participating in the community
 
+<br/>
 
+<p align="center">
+  <a href="https://discord.gg/AnatolianTeam#9538"><img src="/profile/static/discord.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://t.me/AnatolianTeamduyuru"><img src="/profile/static/telegram.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.linkedin.com/company/"><img src="/profile/static/linkedin.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://github.com/AnatolianTeam"><img src="/profile/static/github.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://twitter.com/AnatolianTeam"><img src="/profile/static/twitter.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://medium.com/AnatolianTeam"><img src="/profile/static/medium.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.youtube.com/@AnatolianTeam"><img src="/profile/static/youtube.svg" width="64" /></a>
+</p>
