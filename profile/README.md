@@ -18,6 +18,8 @@ Always forward with the Anatolian Team 🚀
   &nbsp; &nbsp;
   <a href="https://t.me/AnatolianTeamduyuru"><img src="/profile/static/telegram.svg" width="64" /></a>
   &nbsp; &nbsp;
+  <a href="https://t.me/AnatolianTeam"><img src="/profile/static/telegram.svg" width="64" /></a>
+  &nbsp; &nbsp;
   <a href="https://www.linkedin.com/company/"><img src="/profile/static/linkedin.svg" width="64" /></a>
   &nbsp; &nbsp;
   <a href="https://twitter.com/AnatolianTeam"><img src="/profile/static/twitter.svg" width="64" /></a>
@@ -25,4 +27,6 @@ Always forward with the Anatolian Team 🚀
   <a href="https://medium.com/AnatolianTeam"><img src="/profile/static/medium.svg" width="64" /></a>
   &nbsp; &nbsp;
   <a href="https://www.youtube.com/@AnatolianTeam"><img src="/profile/static/youtube.svg" width="64" /></a>
+  &nbsp; &nbsp;
+  <a href="https://www.reddit.com/r/AnatolianTeam" target="_blank" rel="noopener noreferrer"><img src="/profile/static/reddit.svg" width="64" /></a>  
 </p>
