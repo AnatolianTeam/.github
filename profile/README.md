@@ -1,4 +1,4 @@
-[![Anatolian-Team-GitHub-Banner](/profile/static/Anatolian-Team-GitHub-Banner-N.jpg)](https://anatolianteam.com/)
+[![Anatolian-Team-GitHub-Banner](https://github.com/AnatolianTeam/.github/raw/main/profile/static/Anatolian-Team-GitHub-Banner-N.jpg)](https://anatolianteam.com/)
 
 # 🅰️natolian Team
 Always forward with the Anatolian Team 🚀
@@ -16,20 +16,22 @@ Coming soon...
 
 <br/>
 
-<p align="center">
-  <a href="https://discord.gg/AnatolianTeam#9538"><img src="/profile/static/discord.svg" width="64" /></a>
+<div align="center">
+  <a href="https://discord.gg/AnatolianTeam#9538"><img src="/static/discord.svg" width="64" /></a>
   &nbsp; &nbsp;
-  <a href="https://t.me/AnatolianTeamduyuru"><img src="/profile/static/telegram.svg" width="64" /></a>
+  <a href="https://t.me/AnatolianTeamduyuru"><img src="/static/telegram.svg" width="64" /></a>
   &nbsp; &nbsp;
-  <a href="https://t.me/AnatolianTeam"><img src="/profile/static/telegram.svg" width="64" /></a>
+  <a href="https://t.me/AnatolianTeam"><img src="/static/telegram.svg" width="64" /></a>
   &nbsp; &nbsp;
   <a href="https://www.linkedin.com/company/anatolianteam"><img src="/static/linkedin.svg" width="64" /></a>
   &nbsp; &nbsp;
-  <a href="https://twitter.com/AnatolianTeam"><img src="/profile/static/twitter.svg" width="64" /></a>
+  <a href="https://twitter.com/AnatolianTeam"><img src="/static/twitter.svg" width="64" /></a>
   &nbsp; &nbsp;
-  <a href="https://medium.com/AnatolianTeam"><img src="/profile/static/medium.svg" width="64" /></a>
+  <a href="https://medium.com/AnatolianTeam"><img src="/static/medium.svg" width="64" /></a>
   &nbsp; &nbsp;
-  <a href="https://www.youtube.com/@AnatolianTeam"><img src="/profile/static/youtube.svg" width="64" /></a>
+  <a href="https://www.youtube.com/@AnatolianTeam"><img src="/static/youtube.svg" width="64" /></a>
   &nbsp; &nbsp;
-  <a href="https://www.reddit.com/r/AnatolianTeam" target="_blank" rel="noopener noreferrer"><img src="/profile/static/reddit.svg" width="64" /></a>  
-</p>
+  <a href="https://www.reddit.com/r/AnatolianTeam" target="_blank" rel="noopener noreferrer"><img src="/static/reddit.svg" width="64" /></a>  
+  &nbsp; &nbsp;
+</div>
+
