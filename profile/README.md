@@ -1,18 +1,28 @@
 [![Anatolian-Team-GitHub-Banner](https://github.com/AnatolianTeam/.github/raw/main/profile/static/Anatolian-Team-GitHub-Banner-N.jpg)](https://anatolianteam.com/)
 
-# 🅰️natolian Team
-Always forward with the Anatolian Team 🚀
+# Anatolian Team
+Always forward with the Anatolian Team 🐆
 
-## Stake with us ❤️  Bizimle stake edin 
+## Website
+🇬🇧 https://anatolianteam.com/ <br />
+🇹🇷 https://anatolianteam.com/tr/
 
+### Team - Ekip
+🇬🇧 https://anatolianteam.com/team/ <br />
+🇹🇷 https://anatolianteam.com/tr/ekip/
 
-| [<img src='https://github.com/AnatolianTeam/.github/raw/main/profile/static/Arable_120.png' alt='acre'>](https://restake.app/acrechain/acrevaloper10uc3h2348v9dxa7evkjhep8xxtsd8f7de3xg5t) | [<img src='https://github.com/AnatolianTeam/.github/raw/main/profile/static/Jackal_120.png' alt='jackal'>](https://restake.app/jackal/jklvaloper1qhm6hucmshaz6s3mdyl8jje9ryk7t5uxgxy6w8) | [<img src='https://github.com/AnatolianTeam/.github/raw/main/profile/static/Rebus_120.png' alt='rebus'>](https://restake.app/rebus/rebusvaloper183hv37en2dayslgf03zfr57crtjrchuazwm9h9) | [<img src='https://github.com/AnatolianTeam/.github/raw/main/profile/static/Stride_120.png' alt='stride'>](https://restake.app/stride/stridevaloper1ehmnl9jdf2hnj78va888gtpz9e3d4g4ll3wthh) | [<img src='https://github.com/AnatolianTeam/.github/raw/main/profile/static/Q_120.png' alt='qblockchain'>](https://hq.q.org/staking/validators/0xEa1e01039D2476c04cBB2145f4944379E4bfA289) |
-| ------------ | ------------ | ------------ | ------------ |  ------------ |
-|<p align="center"><a href="https://restake.app/acrechain/acrevaloper10uc3h2348v9dxa7evkjhep8xxtsd8f7de3xg5t" target="_blank" rel="noreferrer noopener" >Stake Acre </a></p> | <p align="center"><a href="https://restake.app/jackal/jklvaloper1qhm6hucmshaz6s3mdyl8jje9ryk7t5uxgxy6w8" target="_blank" rel="noreferrer noopener">Stake Jackal</a></p> | <p align="center"><a href="https://restake.app/rebus/rebusvaloper183hv37en2dayslgf03zfr57crtjrchuazwm9h9" target="_blank" rel="noreferrer noopener">Stake Rebus</a></p> | <p align="center"><a href="https://restake.app/stride/stridevaloper1ehmnl9jdf2hnj78va888gtpz9e3d4g4ll3wthh" target="_blank" rel="noreferrer noopener">Stake Stride</a></p> | <p align="center"><a href="https://hq.q.org/staking/validators/0xEa1e01039D2476c04cBB2145f4944379E4bfA289" target="_blank" rel="noreferrer noopener">Stake Q </a></p> |
+## Services - Hizmetler
+🇬🇧 https://services.anatolianteam.com/ <br />
+🇹🇷 https://services.anatolianteam.com/tr/
 
+## Restake 
+🇬🇧 https://restake.anatolianteam.com/
 
-## Active Testnets :technologist: Aktif Testnetler
-Coming soon...
+## Cosmos Testnet Explorer
+🇬🇧 https://cosmos-testnet.anatolianteam
+
+## Cosmos Mainnet Explorer
+🇬🇧 https://cosmos.anatolianteam.com/
 
 ## Participating in the community 🙋 Topluluğa katılın
 
