@@ -1,4 +1,4 @@
-[![Anatolian-Team-GitHub-Banner](https://github.com/AnatolianTeam/.github/raw/main/profile/static/Anatolian-Team-GitHub-Banner-N.jpg)](https://anatolianteam.com/)
+[![Anatolian-Team-GitHub-Banner](https://github.com/AnatolianTeam/.github/raw/main/profile/static/Anatolian-Team-GitHub-Banner-N.png)](https://anatolianteam.com/)
 
 # Anatolian Team
 Always forward with the Anatolian Team 🐆
